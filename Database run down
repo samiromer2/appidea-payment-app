@@ -1,0 +1,4 @@
+who :
+payment(id , username , email, type)
+cash :
+payment (id , amount , type , movement)
